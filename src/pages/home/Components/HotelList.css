@@ -1,0 +1,22 @@
+.hotelListItem {
+  display: flex;
+  padding-left: 9vw;
+  padding-bottom: 2vh;
+}
+.hotel img {
+  width: 18.7vw;
+  height: 30vh;
+  padding-top: 2vh;
+}
+.hotel {
+  padding-left: 1vw;
+}
+.hotelRate {
+  display: flex;
+  padding-bottom: 10vh;
+}
+.hotelRateItem {
+  background-color: rgb(29, 114, 226);
+  color: white;
+  margin-right: 1vw;
+}

@@ -1,0 +1,82 @@
+.navbar {
+  background-color: rgb(14, 65, 177);
+}
+.navbar-menu {
+  padding-top: 2vh;
+}
+.navbar-menu h1 {
+  color: white;
+  padding-left: 2vw;
+}
+.register {
+  width: 10vw;
+  height: 5vh;
+}
+.login {
+  width: 10vw;
+  height: 5vh;
+  margin-left: 1vw;
+}
+.buttonRL {
+  display: flex;
+  margin-left: 75vw;
+  margin-top: -4vh;
+}
+.barItems {
+  display: flex;
+}
+.NavbarItems {
+  margin: 2vh 0vw 2vh 2vw;
+}
+.buttonItem {
+  padding: 1.5vh;
+  background-color: rgb(14, 65, 177);
+  color: white;
+}
+header {
+  padding: 2vh 0vw 10vh 2vw;
+  color: white;
+}
+header h1,
+header p {
+  padding: 1vh 0vw 1vh 0vw;
+}
+.headerButton {
+  padding: 1vh 0vw 1vh 0vw;
+}
+.headerButton button {
+  background-color: rgb(36, 104, 194);
+  padding: 1vh 1vw 1vh 1vw;
+  border: none;
+  color: white;
+}
+.searchButton {
+  position: absolute;
+  display: flex;
+  padding: 1vh 2vw 1vh 1vw;
+  margin: -5vh 3vw 0vh 2vw;
+  border: 0.5vw solid rgb(228, 142, 31);
+  background-color: white;
+  border-radius: 0.5vw;
+  width: 90vw;
+}
+.searchButton input {
+  padding-left: 0.5vw;
+  width: 26.6vw;
+  border: none;
+}
+.searchButton button {
+  padding: 1vh 1vw 1vh 1vw;
+  margin: 0 0 0 2vw;
+  background-color: rgb(36, 104, 194);
+  color: white;
+  border: none;
+  width: 6vw;
+  height: auto;
+}
+.navbar {
+  position: relative;
+}
+.textButton {
+  margin-left: 5vw;
+}

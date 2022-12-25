@@ -1,0 +1,68 @@
+.searchInput {
+  width: 20vw;
+  height: 50vh;
+  background: orange;
+  font-size: 1.5vw;
+  border-radius: 1vw;
+  margin: 2vh 2vw 2vh 5vw;
+  padding: 1vh 1vw 15vh 1vw;
+}
+.searchInput h3 {
+  padding: 1vh 0 1vh 0;
+}
+h5 {
+  padding: 0.5vh 0 0.5vh 0;
+}
+.searchDest input {
+  width: 19vw;
+  height: 5vh;
+}
+.searchMin,
+.searchMax,
+.searchAdult,
+.searchChild,
+.searchRoom {
+  font-size: 1vw;
+  width: 19vw;
+}
+.searchMin input {
+  width: 7vw;
+  height: 3vh;
+  margin-bottom: 1vh;
+  margin-left: 2.2vw;
+}
+
+.searchMax input {
+  width: 7vw;
+  height: 3vh;
+  margin-bottom: 1vh;
+  margin-left: 1.9vw;
+}
+.searchAdult input {
+  width: 7vw;
+  height: 3vh;
+  margin-bottom: 1vh;
+  margin-left: 8.5vw;
+}
+.searchChild input {
+  width: 7vw;
+  height: 3vh;
+  margin-bottom: 1vh;
+  margin-left: 7vw;
+}
+.searchRoom input {
+  width: 7vw;
+  height: 3vh;
+  margin-bottom: 0.5vh;
+  margin-left: 8.1vw;
+}
+.buttonSearch {
+  background-color: rgb(36, 104, 194);
+  margin: 1vh 0 0 0;
+  /* padding: 1vh 0 1vh 1vw; */
+  text-align: center;
+  width: 19.5vw;
+  height: 6vh;
+  color: white;
+  border: none;
+}

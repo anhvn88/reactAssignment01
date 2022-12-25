@@ -1,0 +1,70 @@
+.SearchTool {
+  display: flex;
+  width: 90vw;
+  font-size: small;
+}
+.searchItems {
+  display: flex;
+  width: 60vw;
+  margin: 2vh 2vw 2vh 2vw;
+  border: 0.1vw solid black;
+  border-radius: 0.5vw;
+  padding: 1vh 1vw 1vh 1vw;
+}
+.searchImage img {
+  width: 18vw;
+  height: 30vh;
+}
+.searchName {
+  padding: 0.1vh 1vw 2vh 1vw;
+}
+.searchName h2 {
+  padding-bottom: 2vh;
+}
+.searchTag {
+  border: none;
+  background-color: rgb(110, 163, 30);
+  width: 10vw;
+  border-radius: 0.5vw;
+  padding-left: 1vw;
+}
+.searchCenter {
+  padding-bottom: 1vh;
+}
+.searchDescription {
+  padding: 1vh 0 1vh 0;
+  font-weight: bold;
+}
+.searchType {
+  padding: 0vh 0 1vh 0;
+}
+.searchFree {
+  color: green;
+  font-weight: bold;
+}
+.searchFreeItem {
+  padding: 1vh 0 1vh 0;
+  color: green;
+}
+.searchRateItem {
+  display: flex;
+}
+.searchRate {
+  background-color: rgb(36, 104, 194);
+  border: none;
+  margin: 0.1vh 0 1vh 5vw;
+  padding: 0.2vh 0.2vw 0.2vh 0.2vw;
+  color: white;
+}
+.searchPrice {
+  padding: 10vh 0 0 8vw;
+  font-size: x-large;
+}
+.searchBtn {
+  width: 15vw;
+  height: 6vh;
+  border-radius: 0.5vw;
+  background-color: rgb(36, 104, 194);
+  color: white;
+  margin-top: 2vh;
+}

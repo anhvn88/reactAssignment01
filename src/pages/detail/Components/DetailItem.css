@@ -1,0 +1,85 @@
+.itemDetail {
+  padding: 3vh 1vw 7vh 1vw;
+  font-size: 1.6vw;
+}
+.detailName {
+  display: flex;
+}
+.detailName h2 {
+  width: 50vw;
+  margin-bottom: 3vh;
+}
+.detailName button {
+  background-color: rgb(36, 104, 194);
+  color: white;
+  border-radius: 0.5vw;
+  margin-left: 30vw;
+  width: 15vw;
+  height: 6vh;
+  font-size: small;
+}
+.detailAddress {
+  font-size: small;
+}
+.detailDistance {
+  padding: 2vh 0 2vh 0;
+  color: rgb(36, 104, 194);
+  font-weight: bold;
+}
+.detailPrice {
+  padding-bottom: 2vh;
+  color: green;
+  font-weight: bold;
+}
+.detailPhoto {
+  display: grid;
+  grid-template-columns: 32vw 32vw 32vw;
+}
+.detailPhoto img {
+  width: 31vw;
+  height: 35vh;
+  padding-bottom: 1vh;
+}
+.detailMid {
+  display: grid;
+  grid-template-columns: 68vw 27vw;
+  padding: 2vh 0 0 0;
+}
+.detailTitle h2 {
+  padding: 2vh 0 2vh 0;
+}
+.detailItem {
+  background-color: rgb(159, 185, 182);
+  padding: 3vh 2vw 3vh 2vw;
+  font-size: medium;
+}
+.detailItem h3 {
+  padding: 2vh 0 2vh 0;
+}
+.detailContent {
+  padding-bottom: 2vh;
+}
+.detailNine {
+  display: flex;
+}
+.detailNight {
+  padding-bottom: 2vh;
+  font-size: xx-large;
+  font-weight: bold;
+}
+.detail9 {
+  padding: 0.8vh 0 0 0.5vw;
+  font-size: x-large;
+}
+.detailItem button {
+  background-color: rgb(36, 104, 194);
+  color: white;
+  border-radius: 0.5vw;
+  width: 23vw;
+  height: 6vh;
+  font-size: small;
+  margin: 1vh 0 1vh 0;
+}
+.detailDescription {
+  font-size: medium;
+}

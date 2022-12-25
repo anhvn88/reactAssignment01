@@ -1,0 +1,52 @@
+.cityImage img {
+  width: 25vw;
+  height: 40vh;
+  margin: 5vh 0vw 3vh 1vw;
+  border-radius: 1vw;
+}
+.cityItems {
+  display: flex;
+  padding-left: 10vw;
+}
+.cityName {
+  margin: -19vh 2vw 10vh 2vw;
+  color: white;
+  font-size: 2vw;
+}
+
+.title {
+  margin: 2vh 0 2vh 11vw;
+}
+footer {
+  text-align: center;
+  background-color: rgb(14, 65, 177);
+  color: white;
+  padding: 10vh 0 10vh 0;
+}
+footer div {
+  padding: 2vh 0 2vh 0;
+}
+.inputEmail {
+  padding: 2vh 10vw 2vh 1vw;
+  border-radius: 0.5vw;
+}
+footer button {
+  padding: 2vh 0.5vw 2vh 0.5vw;
+  margin-left: 1vw;
+  border-radius: 0.5vw;
+  color: white;
+  background-color: rgb(36, 104, 194);
+  border: none;
+}
+.footerItems {
+  display: flex;
+  font-size: x-small;
+  padding: 5vh 10vw 5vh 15vw;
+}
+.footerItems div {
+  width: 12vw;
+  height: 20vh;
+}
+.listItem li {
+  list-style: none;
+}

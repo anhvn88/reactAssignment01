@@ -1,0 +1,10 @@
+.typeItems {
+  display: flex;
+  margin: 5vh 5vw 2vh 10.2vw;
+}
+.typeItems img {
+  width: 15vw;
+  height: 20vh;
+  padding-left: 0.5vw;
+  border-radius: 1vw;
+}
